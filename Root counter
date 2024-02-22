@@ -1,0 +1,3 @@
+number = float(input("Root counter started. Enter an integer : "))
+root = number **0.5
+print(f"the root of {number} is equal to {root} ")
